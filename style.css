@@ -23,7 +23,7 @@ body {
   height: auto;
   /* border: 2px solid red; */
   border-radius: 20px;
-  background: url(/HD-wallpaper-dull-back-ground.jpg);
+  background: url(HD-wallpaper-dull-back-ground.jpg);
   display: flex;
   flex-direction: column;
   gap: 51px;
