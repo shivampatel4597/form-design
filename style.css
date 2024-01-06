@@ -23,7 +23,7 @@ body {
   height: auto;
   /* border: 2px solid red; */
   border-radius: 20px;
-  background-color:lilac;
+background-color: #c8a2c8;
   display: flex;
   flex-direction: column;
   gap: 51px;
